@@ -2,6 +2,10 @@
 
 ## Sistema de Assistência Virtual
 
+![text-to-speech](https://github.com/mafigoliv/assistencia_virtual/blob/main/imgs/text-to-speech.jpg?raw=true)
+
+![speech-to-text](https://github.com/mafigoliv/assistencia_virtual/blob/main/imgs/speech-to-text.jpg?raw=true)
+
 ### Descrição
 
 Este projeto `assistencia_virtual` é composto por dois scripts principais: `text-to-speech.py` e `speech-to-text.py`. Ambos utilizam bibliotecas de reconhecimento de fala e síntese de voz para interagir com o usuário de maneira eficiente e amigável.
